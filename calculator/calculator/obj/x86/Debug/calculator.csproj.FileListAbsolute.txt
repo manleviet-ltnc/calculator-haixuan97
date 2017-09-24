@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\GitHub\calculator-haixuan97\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\ADMIN\Documents\GitHub\calculator-haixuan97\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\ADMIN\Documents\GitHub\calculator-haixuan97\calculator\calculator\obj\x86\Debug\calculator.FrmMain.resources
+C:\Users\ADMIN\Documents\GitHub\calculator-haixuan97\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\calculator-haixuan97\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\GitHub\calculator-haixuan97\calculator\calculator\obj\x86\Debug\calculator.exe
+C:\Users\ADMIN\Documents\GitHub\calculator-haixuan97\calculator\calculator\obj\x86\Debug\calculator.pdb
